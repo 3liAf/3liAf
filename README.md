@@ -5,10 +5,15 @@
 <a name="top"></a>
 
 <!-- ─────────────────────────── HEADER WAVE ─────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Ali%20Afzal%20Yousuf&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Founder%20%40%20Astrameld&descAlignY=54&descSize=18" alt="Ali Afzal Yousuf" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12,20,24,30" alt="header wave" />
 
-<!-- ─────────────────────────── TYPING LINE ─────────────────────────── -->
+<!-- ─────────────────────────── NAME + TYPING LINE ─────────────────────────── -->
 <div align="center">
+
+# Ali Afzal Yousuf
+
+### `AI Engineer` · `Data Scientist` · `Founder @ Astrameld`
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&random=false&width=900&height=60&lines=M.Sc.+Artificial+Intelligence+Candidate+%F0%9F%87%A9%F0%9F%87%AA;4%2B+Years+Driving+Growth+in+SaaS%2C+Fintech+%26+E-Commerce;Analytics+%E2%80%A2+Machine+Learning+%E2%80%A2+Cloud+Engineering;Founder+%40+Astrameld+%E2%80%94+Next-Gen+AI+Automation+Agency;Turning+Messy+Data+Into+Money-Making+Decisions)](https://astrameld.com)
 
@@ -96,7 +101,7 @@ class AliAfzalYousuf:
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,nodejs,fastapi,flask,django,php,laravel,c,mysql,postgres,mongodb,redis,supabase,firebase,aws,azure,gcp,docker,kubernetes,githubactions,vercel,netlify,nginx,linux,git,github,figma,vscode,postman,pytorch,tensorflow,sklearn,anaconda,bash,html,css,bootstrap,graphql,wordpress&perline=11" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,nodejs,fastapi,django,php,mysql,postgres,mongodb,redis,supabase,aws,azure,gcp,docker,kubernetes,githubactions,vercel,linux,git,pytorch,tensorflow,sklearn,figma&perline=14" alt="Tech stack icons" />
 </a>
 
 <br/><br/>
@@ -337,6 +342,6 @@ I'm always up for interesting work — freelance, collaboration, or a long conve
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,24,30&reversal=true&animation=fadeIn" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,24,30&reversal=true" alt="footer" />
 
 <div align="center"><a href="#top">⬆️ back to top</a></div>
