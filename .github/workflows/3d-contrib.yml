@@ -22,8 +22,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-        with:
-          settings_json: ""
 
       - name: Commit generated SVGs
         run: |
