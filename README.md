@@ -88,10 +88,10 @@ Currently reading for an **M.Sc. in Artificial Intelligence** in Germany while b
 
 ### How I work
 
-> Start from the decision the work should change, not the model.
-> Ship rough into production before perfect into a branch.
-> If the impact can't be counted, it probably isn't there.
-> Hand it over documented, reproducible, and runnable without me.
+- **Scope** — start from the decision the work should change, not the model
+- **Ship** — rough in production beats perfect in a branch
+- **Measure** — if the impact can't be counted, it probably isn't there
+- **Hand over** — documented, reproducible, runnable without me
 
 ---
 
