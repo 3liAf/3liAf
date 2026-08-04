@@ -5,7 +5,7 @@
 <a name="top"></a>
 
 <!-- ─────────────────────────── HEADER WAVE ─────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Ali%20Afzal%20Yousuf&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Founder%20%40%20Astrameld&descAlignY=54&descSize=18&animation=fadeIn&stroke=00000000" alt="Ali Afzal Yousuf" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Ali%20Afzal%20Yousuf&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Founder%20%40%20Astrameld&descAlignY=54&descSize=18" alt="Ali Afzal Yousuf" />
 
 <!-- ─────────────────────────── TYPING LINE ─────────────────────────── -->
 <div align="center">
@@ -26,7 +26,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=3liAf&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" alt="Profile views" />
 <a href="https://github.com/3liAf?tab=followers"><img src="https://img.shields.io/github/followers/3liAf?label=FOLLOWERS&style=for-the-badge&color=6C63FF&labelColor=1a1b27&logo=github" alt="Followers" /></a>
-<a href="https://github.com/3liAf?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F3liAf&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=6C63FF&labelColor=1a1b27&logo=git" alt="Repos" /></a>
+<img src="https://img.shields.io/badge/M.Sc.-Artificial%20Intelligence-1a1b27?style=for-the-badge&logo=graduationcap&logoColor=6C63FF" alt="Degree" />
 <img src="https://img.shields.io/badge/Based%20in-Erlangen,%20Germany-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=6C63FF" alt="Location" />
 <img src="https://img.shields.io/badge/Focus-AI%20Automation-1a1b27?style=for-the-badge&logo=openai&logoColor=6C63FF" alt="Focus" />
 
@@ -94,6 +94,12 @@ class AliAfzalYousuf:
 ## 🧰 The Arsenal
 
 <div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,nodejs,fastapi,flask,django,php,laravel,c,mysql,postgres,mongodb,redis,supabase,firebase,aws,azure,gcp,docker,kubernetes,githubactions,vercel,netlify,nginx,linux,git,github,figma,vscode,postman,pytorch,tensorflow,sklearn,anaconda,bash,html,css,bootstrap,graphql,wordpress&perline=11" alt="Tech stack icons" />
+</a>
+
+<br/><br/>
 
 <details open>
 <summary><b>🐍 Languages</b></summary>
@@ -232,17 +238,7 @@ class AliAfzalYousuf:
 <img width="41%" src="https://github-readme-streak-stats.herokuapp.com?user=3liAf&hide_border=true&theme=tokyonight&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Streak" />
 
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3liAf&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9" alt="Top languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3liAf&theme=tokyonight&utcOffset=2" alt="Productive time" />
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3liAf&theme=tokyonight" alt="Profile details" />
-
-</div>
-
-### 🏆 Trophy Cabinet
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=3liAf&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/3liAf?cardType=octocat&theme=github-dark&preferLogin=false" alt="GitHub level card" />
 
 </div>
 
