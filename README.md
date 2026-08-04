@@ -15,7 +15,10 @@
 ### `AI Engineer` · `Data Scientist` · `Founder @ Astrameld`
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&random=false&width=900&height=60&lines=M.Sc.+Artificial+Intelligence+Candidate+%F0%9F%87%A9%F0%9F%87%AA;4%2B+Years+Driving+Growth+in+SaaS%2C+Fintech+%26+E-Commerce;Analytics+%E2%80%A2+Machine+Learning+%E2%80%A2+Cloud+Engineering;Founder+%40+Astrameld+%E2%80%94+Next-Gen+AI+Automation+Agency;Turning+Messy+Data+Into+Money-Making+Decisions)](https://astrameld.com)
+*Turning messy data into money-making decisions.*
+
+<img src="https://img.shields.io/badge/4%2B%20YEARS-SaaS%20%C2%B7%20Fintech%20%C2%B7%20E--Commerce-6C63FF?style=flat-square&labelColor=0D1117" alt="Experience" />
+<img src="https://img.shields.io/badge/CORE-Analytics%20%C2%B7%20Machine%20Learning%20%C2%B7%20Cloud-6C63FF?style=flat-square&labelColor=0D1117" alt="Core" />
 
 <!-- ─────────────────────────── SOCIAL ROW ─────────────────────────── -->
 
@@ -239,11 +242,25 @@ class AliAfzalYousuf:
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Repositories-99-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repos" />
+<img src="https://img.shields.io/badge/Contributions%20(1y)-535-00C853?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="Contributions" />
+<img src="https://img.shields.io/badge/Starred-35-FFD700?style=for-the-badge&logo=star&logoColor=white&labelColor=0D1117" alt="Stars given" />
+<img src="https://img.shields.io/badge/Achievements-Pair%20Extraordinaire%20%C2%B7%20Quickdraw%20%C2%B7%20Arctic%20Vault-9C27B0?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Achievements" />
+
+<br/><br/>
+
+<details>
+<summary><b>📇 Open the detailed stat cards</b></summary>
+<br/>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=3liAf&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
 <img width="41%" src="https://github-readme-streak-stats.herokuapp.com?user=3liAf&hide_border=true&theme=tokyonight&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Streak" />
 
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3liAf&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9" alt="Top languages" />
-<img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/3liAf?cardType=octocat&theme=github-dark&preferLogin=false" alt="GitHub level card" />
+
+<sub><i>These cards are served by community services that rate-limit under load — if one is blank, refresh in a few minutes.</i></sub>
+
+</details>
 
 </div>
 
