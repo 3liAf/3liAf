@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="https://raw.githubusercontent.com/3liAf/3liAf/main/assets/banner.svg" alt="Ali Afzal Yousuf — AI Engineer" width="880">
+<img src="assets/banner.svg" alt="Ali Afzal Yousuf — AI Engineer" width="880">
 
 <br><br>
 
@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/ali--af-1b1026?style=for-the-badge&logo=linkedin&logoColor=ff4d8d&labelColor=1b1026)](https://www.linkedin.com/in/ali-af/)
 [![Email](https://img.shields.io/badge/hello@astrameld.com-1b1026?style=for-the-badge&logo=maildotru&logoColor=ffb85c&labelColor=1b1026)](mailto:hello@astrameld.com)
 
-<img src="https://raw.githubusercontent.com/3liAf/3liAf/main/assets/divider.svg" width="880" alt="">
+<img src="assets/divider.svg" width="880" alt="">
 
 </div>
 
@@ -21,7 +21,7 @@ I build AI systems that automate business workflows and turn messy operational d
 
 Currently reading for an **M.Sc. in Artificial Intelligence** in Germany while building **[Astrameld](https://astrameld.com)**, an AI automation agency.
 
-<div align="center"><img src="https://raw.githubusercontent.com/3liAf/3liAf/main/assets/divider.svg" width="880" alt=""></div>
+<div align="center"><img src="assets/divider.svg" width="880" alt=""></div>
 
 ## `~/stack`
 
@@ -57,14 +57,14 @@ Currently reading for an **M.Sc. in Artificial Intelligence** in Germany while b
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1b1026?style=flat-square&logo=githubactions&logoColor=ff9a3c)
 ![React](https://img.shields.io/badge/React-1b1026?style=flat-square&logo=react&logoColor=ffb85c)
 
-<div align="center"><img src="https://raw.githubusercontent.com/3liAf/3liAf/main/assets/divider.svg" width="880" alt=""></div>
+<div align="center"><img src="assets/divider.svg" width="880" alt=""></div>
 
 ## `~/stats`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/3liAf/3liAf/main/assets/stats.svg" alt="GitHub stats" height="220">
-<img src="https://raw.githubusercontent.com/3liAf/3liAf/main/assets/langs.svg" alt="Top languages" height="220">
+<img src="assets/stats.svg" alt="GitHub stats" height="220">
+<img src="assets/langs.svg" alt="Top languages" height="220">
 
 <sub>Regenerated daily by <a href="https://github.com/3liAf/3liAf/actions">GitHub Actions</a> — no third-party services.</sub>
 
