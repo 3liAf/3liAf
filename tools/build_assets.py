@@ -283,6 +283,9 @@ if __name__ == "__main__":
         f.write(build_divider())
 
     build_avatar(os.path.join(ASSETS, "avatar.png"))
-    build_banner_preview(os.path.join(ASSETS, "_banner_check.png"))
 
-    print("wrote banner.svg, divider.svg, avatar.png, _banner_check.png")
+    # Local-only alignment check; never written in CI so it stays out of the repo.
+    if os.environ.get("BANNER_PREVIEW"):
+        build_banner_preview(os.path.join(ASSETS, "_banner_check.png"))
+
+    print("wrote banner.svg, divider.svg, avatar.png")
