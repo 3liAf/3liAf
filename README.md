@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Ali Afzal Yousuf — AI Engineer" width="880">
+<img src="assets/banner.svg" alt="Ali Afzal Yousuf — AI Systems Architect & Researcher" width="880">
 
 <br><br>
 
@@ -14,21 +14,22 @@
 
 ## `~/about`
 
-**AI Engineer** · **Data Scientist** · Founder [@Astrameld](https://astrameld.com)  
-M.Sc. Artificial Intelligence · Erlangen, Germany
+**AI Systems Architect** · **M.Sc. AI Researcher** [@FAU Erlangen-Nürnberg](https://www.fau.eu)  
+Technical Operations [@Astrameld](https://astrameld.com) (International / Pakistan) · Erlangen, Germany
 
-I build AI systems that automate business workflows and turn messy operational data into decisions. My work spans **LLM agents, retrieval systems, forecasting and pricing models, and production-grade APIs**.
+I design high-throughput AI systems, retrieval pipelines, and autonomous agent architectures that bridge cutting-edge research with production-grade engineering. My work focuses on **dense vector embeddings, SIMD acceleration, multi-agent sandboxing, and evaluation frameworks for LLM retrieval systems**.
 
-Currently reading for an **M.Sc. in Artificial Intelligence** in Germany while building **[Astrameld](https://astrameld.com)**, an AI automation agency.
+Currently conducting research as an **M.Sc. in Artificial Intelligence** student at **Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** while directing technical operations for **[Astrameld](https://astrameld.com)** (serving enterprise and mid-market partners globally across US/UK/GCC).
 
 <div align="center"><img src="assets/divider.svg" width="880" alt=""></div>
 
 ## `~/featured`
 
-- [**rag-eval-metrics**](https://github.com/3liAf/rag-eval-metrics) — Zero-dependency evaluation metrics (Hit Rate @ K, MRR, NDCG) for RAG retrieval benchmarking.
-- [**prompt-telemetry-php**](https://github.com/3liAf/prompt-telemetry-php) — Zero-dependency PHP 8.4+ utility for calculating LLM token consumption, latency, and cost telemetry.
-- [**ai-env-toolkit**](https://github.com/3liAf/ai-env-toolkit) — POSIX shell scripts for inspecting, auditing, and maintaining local AI developer environments and GPU memory.
-- [**docker-agent-sandbox**](https://github.com/3liAf/docker-agent-sandbox) — Hardened Alpine-based execution container for evaluating untrusted LLM-generated code.
+- [**fast-cosine-rs**](https://github.com/3liAf/fast-cosine-rs) — High-throughput, zero-dependency cosine similarity and vector normalization in Rust with SIMD auto-vectorization (>1.1M vectors/sec).
+- [**rag-eval-metrics**](https://github.com/3liAf/rag-eval-metrics) — Production evaluation metrics (Hit Rate @ K, MRR, NDCG, Reciprocal Rank Fusion) for RAG retrieval benchmarking.
+- [**rag-chunk-visualizer**](https://github.com/3liAf/rag-chunk-visualizer) — Interactive Next.js playground for real-time semantic chunking and embedding distance analysis.
+- [**docker-agent-sandbox**](https://github.com/3liAf/docker-agent-sandbox) — Hardened Alpine-based execution container for untrusted LLM-generated code.
+- [**prompt-telemetry-php**](https://github.com/3liAf/prompt-telemetry-php) — Zero-dependency PHP 8.4+ utility for LLM token consumption, latency, and cost telemetry.
 - [**awesome-nfc**](https://github.com/3liAf/awesome-nfc) — Curated NFC tools, hardware guides, and browser-based Web NFC workflows.
 
 <div align="center"><img src="assets/divider.svg" width="880" alt=""></div>
@@ -54,10 +55,11 @@ Currently reading for an **M.Sc. in Artificial Intelligence** in Germany while b
 **Core**
 
 ![Python](https://img.shields.io/badge/Python-1b1026?style=flat-square&logo=python&logoColor=ff4d8d)
-![TypeScript](https://img.shields.io/badge/TypeScript-1b1026?style=flat-square&logo=typescript&logoColor=ff5f7e)
-![SQL](https://img.shields.io/badge/SQL-1b1026?style=flat-square&logo=postgresql&logoColor=ff6a5e)
-![Pandas](https://img.shields.io/badge/Pandas-1b1026?style=flat-square&logo=pandas&logoColor=ff7b4a)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1b1026?style=flat-square&logo=scikitlearn&logoColor=ff8c3c)
+![Rust](https://img.shields.io/badge/Rust-1b1026?style=flat-square&logo=rust&logoColor=ff5f7e)
+![TypeScript](https://img.shields.io/badge/TypeScript-1b1026?style=flat-square&logo=typescript&logoColor=ff6a5e)
+![SQL](https://img.shields.io/badge/SQL-1b1026?style=flat-square&logo=postgresql&logoColor=ff7b4a)
+![Pandas](https://img.shields.io/badge/Pandas-1b1026?style=flat-square&logo=pandas&logoColor=ff8c3c)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1b1026?style=flat-square&logo=scikitlearn&logoColor=ff9a3c)
 
 **AI Engineering**
 
