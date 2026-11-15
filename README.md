@@ -25,11 +25,13 @@ Currently conducting research as an **M.Sc. in Artificial Intelligence** student
 
 ## `~/featured`
 
+- [**reelcut**](https://github.com/3liAf/reelcut) — AI-assisted video editing engine. Converts raw phone clips into fast-cut vertical reels with word-level captions, jump cuts, and punch zooms using Whisper, LLMs, and FFmpeg.
 - [**fast-cosine-rs**](https://github.com/3liAf/fast-cosine-rs) — High-throughput, zero-dependency cosine similarity and vector normalization in Rust with SIMD auto-vectorization (>1.1M vectors/sec).
-- [**rag-eval-metrics**](https://github.com/3liAf/rag-eval-metrics) — Production evaluation metrics (Hit Rate @ K, MRR, NDCG, Reciprocal Rank Fusion) for RAG retrieval benchmarking.
-- [**rag-chunk-visualizer**](https://github.com/3liAf/rag-chunk-visualizer) — Interactive Next.js playground for real-time semantic chunking and embedding distance analysis.
-- [**docker-agent-sandbox**](https://github.com/3liAf/docker-agent-sandbox) — Hardened Alpine-based execution container for untrusted LLM-generated code.
+- [**rag-chunk-visualizer**](https://github.com/3liAf/rag-chunk-visualizer) ([Live Demo](https://3liaf.github.io/rag-chunk-visualizer/)) — Interactive playground for real-time semantic chunking, sentence fracture analysis, and LangChain/LlamaIndex code generation.
+- [**rag-eval-metrics**](https://github.com/3liAf/rag-eval-metrics) — Zero-dependency Python evaluation metrics (Hit Rate @ K, MRR, NDCG, Reciprocal Rank Fusion) for RAG retrieval benchmarking.
+- [**docker-agent-sandbox**](https://github.com/3liAf/docker-agent-sandbox) — Hardened Alpine-based execution container for evaluating untrusted LLM-generated code.
 - [**prompt-telemetry-php**](https://github.com/3liAf/prompt-telemetry-php) — Zero-dependency PHP 8.4+ utility for LLM token consumption, latency, and cost telemetry.
+- [**amos2026ws01-legacy-migrator**](https://github.com/amosproj/amos2026ws01-legacy-migrator) — AI-assisted legacy migration knowledge base and arc42 visualizer (industry collaboration with iteratec & FAU Erlangen).
 - [**awesome-nfc**](https://github.com/3liAf/awesome-nfc) — Curated NFC tools, hardware guides, and browser-based Web NFC workflows.
 
 <div align="center"><img src="assets/divider.svg" width="880" alt=""></div>
